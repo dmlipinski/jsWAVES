@@ -3,6 +3,7 @@ jsWAVES
 
 ## Javascript shallow water waves 
 
+Screenshot:
 ![screenshot](./waves.jpg)
 
 A Javascript code for solving the shallow water equations and displaying the results using HTML5 canvas elements. User interaction is handled via mouse or touch events.
